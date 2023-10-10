@@ -13,6 +13,6 @@ Estou iniciando minha carreira na área da tecnologia e tenho grandes planos par
 ## 📲 Contato
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mapgomes/) 
 
-Fique à vontade para entrar em contato comigo caso queira discutir oportunidades de colaboração, compartilhar conhecimentos ou simplesmente bater um papo sobre tecnologia. Estou ansiosa para conhecer pessoas da comunidade de programação e aprender com todos vocês! 😊
+Fique à vontade para entrar em contato comigo. Estou ansiosa para conhecer pessoas da comunidade de programação e aprender com todos vocês! 😊
 
-Vamos codar juntos! 🚀
+Vamos juntos! 🚀
